@@ -69,7 +69,7 @@
 .adven .img-view .img-2st{left:1.25rem; bottom:1.25rem; max-width:300px;}
 
 .adven .row:nth-of-type(2) .img-view .img-1st {left:1.25rem; top:1.25rem; max-width:400px;}
-.adven .row:nth-of-type(2) .img-view .img-2st {right:1.25rem !important; bottom:1.25rem; max-width:300px;}
+.adven .row:nth-of-type(2) .img-view .img-2st {left:auto; right:2.25rem; bottom:1.25rem; max-width:300px;}
 
 .contact {
   background:url(../images/contact-cover.jpg) no-repeat center;
